@@ -1,2 +1,2 @@
-# Better-Call-Advoca-
+# Better-Call-Advoca
 AI powered Legal Assisstant
